@@ -5,3 +5,4 @@ NetworkX é uma biblioteca Python para estudar grafos e redes. O NetworkX é um 
 - Repositório: https://github.com/networkx
 - Site: http://networkx.github.io/
 - Projeto para download: https://pypi.org/project/networkx/
+- Documentaçãa: https://networkx.github.io/documentation/stable/index.html
